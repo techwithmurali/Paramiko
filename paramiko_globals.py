@@ -1,5 +1,5 @@
 import os
-hostname="whf00oty.in.oracle.com"
+hostname="servername.in.xxxx.com"
 username="username"
 password="password"
 localpath  = r'C:\WorkDir\FolderName'
